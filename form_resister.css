@@ -1,29 +1,8 @@
 /* register */
 
-
-form {
-    display: flex;
-    justify-content: center;
-    width: 100vw;
-    align-items: flex-end;
-}
-
-.reg {
-    width: 40vw;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    background-color: rgb(248, 247, 248);;
-    border:2px solid aqua
-    
-}
-
-.button {
-    width: 200px;
-    font-size: 20px;
-    padding: 10px;
-    margin: 23px 10px 40px 50px;
+.userreg{
+    margin: 0 32%;
+    width: 50%;
 }
 
 
@@ -32,22 +11,20 @@ form {
 
 /* login */
 
-form{
-    display: flex;
-    justify-content: center;
-    width: 100vw;
-    align-items:flex-end;
+.tbl1{
+    color: rgb(66, 66, 236);
 }
-.logincon{
-    background-color: rgb(248, 247, 248);;
-    display: flex;
-    flex-direction: column;
-    align-items:center;
-    justify-content: center;
-    width: 40vw;
-    border:2px solid aqua;
-    margin: 1px 1px 82px 1px
+#userform{
+    margin: 0 20%;
+    width: 50%;
 }
-.button input{
-    margin: 20px;
+.tbl1{
+    margin: 10px;
+    border: 1px solid;
+}
+td{
+    padding: 5px;
+}
+#btn{
+    margin-left: 20%;
 }
